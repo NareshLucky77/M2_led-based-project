@@ -1,9 +1,12 @@
 
 REQUIREMENT: -
+High level Requirements:
 1. Microcontroller:-
 A microcontroller (MCU for microcontroller unit) is a small computer on a single metal-oxide-semiconductor (MOS) integrated circuit (IC) chip. A microcontroller contains one or more CPUs (processor cores) along with memory and programmable input/output peripherals. Program memory in the form of ferroelectric RAM, EEPROM, NOR flash or OTP ROM is also often included on chip, as well as a small amount of RAM. Microcontrollers are designed for embedded applications, in contrast to the microprocessors used in personal computers or other general-purpose applications consisting of various discrete chips. An AT Mega Microcontroller is an 8-bit microcontroller with Reduced Instruction Set (RISC) based Harvard Architecture. God to know: As the name suggest, for instance, “ATmega16″, where AT = Atmel, mega = mega AVR and 16= 16kb flash memory.
 2. Led:-
 A light-emitting diode (LED) is a semiconductor light source that emits light when current flows through it. Electrons in the semiconductor recombine with electron holes, releasing energy in the form of photons. The color of the light (corresponding to the energy of the photons) is determined by the energy required for electrons to cross the band gap of the semiconductor. White light is obtained by using multiple semiconductors or a layer of light-emitting phosphor on the semiconductor device.
+
+Low Level Requirements:
 3. Fixed Voltage:-
 A fixed output power supply has, well, a fixed output voltage. This means that when the power supply is plugged in and the output is on, the output voltage is a single voltage that is not expected to change – it is fixed at that voltage. These power supplies are typically used to provide simple bias for a circuit.
 4. Relay:-
